@@ -1,4 +1,4 @@
-# usulix/laravel-netsuite
+# based on usulix/laravel-netsuite just updated to laravel 7
 
 [ryanwinchester/netsuite-php](https://github.com/ryanwinchester/netsuite-php) is a php package which
 wraps the [NetSuite PHP Toolkit](http://www.netsuite.com/portal/developers/resources/suitetalk-sample-applications.shtml)
@@ -12,7 +12,7 @@ API for targeting NetSuite RESTlets
 Will use the latest `ryanwinchester/netsuite-php` version up to `v2018.2.0`
 
 ```
-    composer require usulix/laravel-netsuite
+    composer require issamlk1/laravel-netsuite
 ```
 if an older version say `v2017.1.1` or `v2016.2.0` is required
  ```
